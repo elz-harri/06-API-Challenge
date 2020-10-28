@@ -1,2 +1,2 @@
-# 06-API-Challenge
+# 06-Python-API-Challenge
 API Challenege
