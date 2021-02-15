@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 python-api-challenge
 Assignment utiltize API request to perform series of Analysis.
 
@@ -117,3 +118,7 @@ In building your script, pay attention to the cities you are using in your query
 Once you have computed the linear regression for one chart, the process will be similar for all others. As a bonus, try to create a function that will create these charts based on different parameters.
 
 Remember that each coordinate will trigger a separate call to the Google API. If you're creating your own criteria to plan your vacation, try to reduce the results in your DataFrame to 10 or fewer cities.
+=======
+# 06-Python-API-Challenge
+API Challenege
+>>>>>>> e3d88305d2a8d5549c7d5ede4b32c9a737199c59
